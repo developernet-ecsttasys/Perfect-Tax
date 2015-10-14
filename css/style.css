@@ -1,0 +1,12 @@
+﻿.bt-menu-trigger span:before, .bt-menu-trigger span:after , .bt-menu-trigger span {
+    background-color: blue;
+
+}
+.logo {
+    position: fixed;
+    left: 494px;
+    top: -14px;
+}
+.background {
+    background-color:white;
+}
